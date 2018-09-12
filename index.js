@@ -1,8 +1,8 @@
-var name = "Joe"
+var name = "Susan"
 var height = "74"
 if (name === "Susan") {console.log("The name is correct")}
 if (name === "Susan") {console.log("The name is correct")} else {console.log("Expeced the name to be Susan")}
-nodejs index.JS
+
 
 
 // Don't worry about this
